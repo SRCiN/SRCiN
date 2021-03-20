@@ -1,14 +1,11 @@
-This account is SearchIndex's github account
---------------------------------------------
-Why is SearchIndex
-=====================
+## This account is SearchIndex's github account
+
+### Why is SearchIndex
 -The SearchIndex is a search navigation.
 -The SearchIndex is opensource for github.
-Website
-==========
+### Website
 [SearchIndex](https://srcin.github.io)
-Wiki
-=====
+### Wiki
 [Wiki](1212)
 <!---
 srcin/srcin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
